@@ -2,8 +2,7 @@
 
 ![Student](https://img.shields.io/badge/Student-Year%201-blue) ![CS](https://img.shields.io/badge/Major-Computer%20Science-0aa) ![Vietnam](https://img.shields.io/badge/Location-Vietnam-red)
 
-Freshman (First-year student) – **Computer Science**
-University: **University of Technology (VNU-HCM) / Ho Chi Minh City University of Technology**
+CS Freshman - Ho Chi Minh City University of Technology
 
 ---
 
